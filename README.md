@@ -1,153 +1,153 @@
+
+<!-- <div align="center">
+
+![profile-banner](https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/marquee.png)
+
+<h2>Join me on the way to somewhere interesting! Let's build cool stuff together</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarush-saboo-110190253/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarushsaboo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aarushizbored/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarush.saboo@gmail.com)
+
+**Frontend & Backend Developer**
+
+<img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/coding-gif.gif" alt="coding" style="width: 500px;">
+</div> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FFE069&section=header&reversal=false&textBg=false&animation=fadeIn"/>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=88&pause=1000&color=FFE069&center=true&vCenter=true&width=960&height=90&lines=Hey+There!;It's+Zain+Ul+Abideen;Agentic+Ai+Developer)](https://git.io/typing-svg)
+
+<h1 align="center">
+  <font color="#FFE069">Have something cool in mind? I’d love to hear about it.</font>
+</h1>
+
+<p align="center">
+<a href="https://www.behance.net/" target="_blank">
+  <img height="60" src="Assets/Social Icons/Behance.gif" alt="Behance" />
+</a>
+<a href="https://www.linkedin.com/in/zain-ul-abideen00" target="_blank">
+  <img height="60" src="Assets/Social Icons/LinkedIn.gif" alt="LinkedIn" />
+</a>
+<a href="https://medium.com/" target="_blank">
+  <img height="60" src="Assets/Social Icons/Medium.gif" alt="Medium" />
+</a>
+<a href="https://stackoverflow.com/" target="_blank">
+  <img height="60" src="Assets/Social Icons/Stack Overflow.gif" alt="Stack Overflow" />
+</a>
+<a href="https://x.com/djzain33" target="_blank">
+  <img height="60" src="Assets/Social Icons/Twitter.gif" alt="Twitter" />
+</a>
+<a href="https://dribbble.com/" target="_blank">
+  <img height="60" src="Assets/Social Icons/Dribbble.gif" alt="Dribbble" />
+</a>
+<a href="https://www.github.com/zain-ul-abideen00/" target="_blank">
+  <img height="60" src="Assets/Social Icons/Github.gif" alt="GitHub" />
+</a>
+<a href="https://www.whatsapp.com/" target="_blank">
+  <img height="60" src="Assets/Social Icons/WhatsApp.gif" alt="WhatsApp" />
+</a>
+<a href="https://www.facebook.com/djzain33" target="_blank">
+  <img height="60" src="Assets/Social Icons/Facebook.gif" alt="Facebook" />
+</a>
+<a href="https://www.google.com/" target="_blank">
+  <img height="60" src="Assets/Social Icons/Google.gif" alt="Google" />
+</a>
+<a href="https://www.instagram.com/i.am_zayn/" target="_blank">
+  <img height="60" src="Assets/Social Icons/Instagram.gif" alt="Instagram" />
+</a>
+<a href="https://discord.com/zain.ul.abideen/" target="_blank">
+  <img height="60" src="Assets/Social Icons/Discord.gif" alt="Discord" />
+</a>
+</p>
+
+<!-- multicolor -->
+<!-- ### $${\huge \textrm{\color{#AC3097}P\color{#A52A98}r\color{#9E2599}o\color{#972099}j\color{#901B9A}e\color{#89169B}c\color{#82119C}t \color{#7B0C9D}S\color{#74079E}h\color{#6D029F}o\color{#6600A0}w\color{#5F00A1}c\color{#5800A2}a\color{#5100A3}s\color{#4A00A4}e}}$$ -->
+
+---
+
+## 🧑‍💻 Skills
+
+
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend
 <div align="center">
-
-# Hi there, I'm Zain Ul Abideen 👋
-
-### Building human-friendly experiences with code, creativity, and curiosity.
-
-<img src="https://komarev.com/ghpvc/?username=Zain-Ul-Abideen00&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views" />
-
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50" /></a>
+  <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vite" alt="Vite" height="50" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>
+  <a href="https://tailwindcss.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="50" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a>
+  <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="50" /></a>
+  <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="Sass" height="50" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="50" /></a>
+ <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="Django" height="50" /></a>
+ <a href="https://nuxt.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nuxt" alt="Nuxt" height="50" /></a>
+ <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=reactnative" alt="ReactNative" height="50" /></a>
 </div>
 
-## 🚀 Quick Snapshot
+</td><td valign="top" width="33%">
 
-- 💻 Crafting full-stack solutions with clean architecture and delightful UX.
-- 🧠 Currently diving deeper into modern JavaScript tooling, cloud-native patterns, and AI-assisted workflows.
-- 🤝 Love pairing on impactful projects, developer tooling, and community learning.
-- ✍️ Sharing ideas through technical writing, visuals, and talks.
-- 🎯 Goal for 2025: ship more open-source utilities that make onboarding frictionless.
 
-## 🛠 Tech I Enjoy
 
-**Languages**
-`JavaScript` `TypeScript` `Python` `C++` `SQL`
-
-**Frameworks & Runtime**
-`React` `Next.js` `Node.js` `Express` `Vite`
-
-**Cloud & DevOps**
-`Azure` `AWS` `Docker` `GitHub Actions`
-
-**Tooling**
-`VS Code` `Postman` `Figma` `Notion`
-
-## 📌 Highlighted Work
-
-- 🧭 **Developer Experience** – Automations, starter kits, and documentation that help teams move faster.
-- 🌐 **Web Platforms** – Progressive web apps with responsive design, accessibility, and performance baked in.
-- 🤖 **AI-Assisted Flows** – Integrations that pair LLMs with reliable backend services for real-world tasks.
-
-> Curious about something specific? Open an issue or start a discussion — I’m always up for a good tech chat!
-
-## 📈 GitHub Pulse
-
+### Backend
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zain-Ul-Abideen00&show_icons=true&theme=transparent" alt="GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Zain-Ul-Abideen00&theme=transparent" alt="GitHub streak" height="165"/>
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>
+  <a href="https://bun.sh/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bun" alt="Bun" height="50" /></a>
+  <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=go" alt="Go" height="50" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /></a>
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=flask" alt="Flask" height="50" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="50" /></a>
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
+  <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="50" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="50" /></a>
+  <a href="https://supabase.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=django" alt="Django" height="50" /></a>
 </div>
 
-## 🎨 ASCII Mood
+</td><td valign="top" width="33%">
 
-```
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+++++++++++;+
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;++;;;+++++++++
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;++;;;;;;;;;;++
+### Other
+<div align="center">
+  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="50" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" /></a>
+  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" height="50" /></a>
+  <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=googlecloud" alt="Google Cloud" height="50" /></a>
+  <a href="https://soliditylang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=solidity" alt="Solidity" height="50" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" /></a>
+  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>
+</div>
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+;;;;;++
+</td></tr>
+</table>
+<br/>
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+<p align="center">
+  <a href="https://ishan-oshada.vercel.app/">
+    <img src="https://ishan-rest.vercel.app/svg/banner/dev/Zain" alt="Banner" style="width:100%;">
+  </a>
+</p>
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+xxxxxxxxXXx+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+X$$$$$$$$$$&&&&$$$x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+$$$$$$$&&&&&&&&&&&&&$$+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x$&&$$&&&&&&&&&&&&&&&&&&x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x$&&&&&&&&&$$$XXXxxxxX&&&x;;;;;;;;;;;;;;;;;;;;;;;+;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;$&&&&&$$xx++++++;;;;;++$&$+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X&&&&Xx++++;;;;;;;;;;;;;x&&x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x&&&X+++++++;;;;;;;;;;;++$&+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+&&&$+++++;;;;;;;;;;;;;++X$;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X&&x+++xxxx++++++++xXxx+xx;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;&&++xxxxXXXXx++xX$$Xxx+x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+$+++xXX$XXXx+;xXXXxxx+++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+xx+++++xx+++;;;+++++;;+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+X++;;;;;;++;;;;+;;;;++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Xx++;;++++X+++x++++++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+X+++++xxX$$$$$XXx++x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;xXxxxx&$$XXXXXX$$xx+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;$$$$XXx+xXXXx+x$$X;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+$&&&$XxxXXXxx$&X;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;XX++x&&&&$$$$$$$$;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;xxx++xxXX$&&&&&$x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;xxxXXxxxxxXXXXXxx+&x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+xXxxxXXXXxxxxxxxxx+X&&X;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;xxxXXXXxxXXXXXxxxxxxxxx&&$X;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;;+xXXXxXXXXXXXXXXXXxxxxx++x$$$$XXx;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;;;;+xxxXXXxxXXXXXXXXX$&&&$x+++++X$XXx$Xxxx+;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;;;;+xxxxxxxXXXXXXXXX$$$&&&&&&&$x+++X$$$XxxXxXxx+;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;;;+xxxxxxxxXXXXXXXXXXXXX$$$$$$&&&$+xX$XXXXxxxxxXXx+;;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;;+XXXXXxxXxxXXXXXXxXXXXXXXXXX$$$$&&$X$$XXXXxxxxxXXXX+;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;;;xXxXXXXXXXXXXXXXXXXXxxxXXXXXXXXXX$$$&$XXXXXxXxxxxXXXX;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;;+XXxXXXXXXXXXX$XXXXXXXXXXXXXXXXXXXXXXXX$$XXXxxxxxXxxXXX+;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;+XXXXXXXXXX$XXX$$XXXXXXXXXXXXXXXXXXXXXXXX$XXXXxxXxxXxxXX+;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;xXxXXXXXXXX$$X$$$$XXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxXxXXXX$+;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;xxXXXXXXXXX$$$$$$$XXXXXXXxxXXXXXXXXXXXXXXXXXXXXxxxXxXX$$;;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;xXXXXXXX$$X$$$$$$$$XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxXXxx$X+;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;;xXXXXX$$$$$$$$$$$&$XXXXXX$XXXXXXXXXXXXXXXXXXXXXXXXXXXX$Xx;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;+XXXXXX$$$$$$$$&$$&$$$$$$$XXXXXXXXXXXXXXXX$$XXXXXXXXXXX$XX;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;xXXXXXX$$$$$$$$&&$&&&$$$$$XXXXXXXXXXXXXXXXXXXXXXXXXXXXX$XX;;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;;xXXXXXX$$$$$$$$$&$&&&$$$$$XXXXXXXXXXXXXXXXXXXXXXXXXXXXX$X$+;;;;;;;;;;;;;;;;;;;;
-
-;;;;;;;;+XXXXXXXX$$$$$$$$&&&&$$$$XX$XXXXXXXXXXXXXXXXXXXXXXXXXXX$$X$X;;;;;;;;;;;;;;;;;;;;
-
-;;;+;;;;+XXXXXXX$$$$$$$$$&&&$$$XX$$$$XXXXX$$XXXXXXXXXXXXXXX$$X$$$X$X;;;;;;;;;;;;;;;;;;;;
-```
-
-## ☕ Let’s Connect
-
-- 📫 Reach out via issues, PRs, or discussions on this profile.
-- 💬 Always happy to mentor, brainstorm, or pair-program on interesting problems.
-
-Thanks for stopping by — feel free to explore, star what you like, and say hello! ✨
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFE069&section=footer&reversal=true"/>
+</p>
