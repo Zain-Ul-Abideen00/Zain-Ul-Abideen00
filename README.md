@@ -26,22 +26,22 @@
 </h1>
 
 <p align="center">
-<a href="https://www.behance.net/" target="_blank">
+<a href="https://www.behance.net/zain-ul-abideen00" target="_blank">
   <img height="60" src="Assets/Social Icons/Behance.gif" alt="Behance" />
 </a>
 <a href="https://www.linkedin.com/in/zain-ul-abideen00" target="_blank">
   <img height="60" src="Assets/Social Icons/LinkedIn.gif" alt="LinkedIn" />
 </a>
-<a href="https://medium.com/" target="_blank">
+<a href="https://medium.com/@zain-ul-abideen00" target="_blank">
   <img height="60" src="Assets/Social Icons/Medium.gif" alt="Medium" />
 </a>
 <a href="https://stackoverflow.com/" target="_blank">
   <img height="60" src="Assets/Social Icons/Stack Overflow.gif" alt="Stack Overflow" />
 </a>
-<a href="https://x.com/djzain33" target="_blank">
+<a href="https://x.com/zain_dev00" target="_blank">
   <img height="60" src="Assets/Social Icons/Twitter.gif" alt="Twitter" />
 </a>
-<a href="https://dribbble.com/" target="_blank">
+<a href="https://dribbble.com/zain-ul-abideen00" target="_blank">
   <img height="60" src="Assets/Social Icons/Dribbble.gif" alt="Dribbble" />
 </a>
 <a href="https://www.github.com/zain-ul-abideen00/" target="_blank">
@@ -53,8 +53,8 @@
 <a href="https://www.facebook.com/djzain33" target="_blank">
   <img height="60" src="Assets/Social Icons/Facebook.gif" alt="Facebook" />
 </a>
-<a href="https://www.google.com/" target="_blank">
-  <img height="60" src="Assets/Social Icons/Google.gif" alt="Google" />
+<a href="mailto:zain.dev00@gmail.com">
+  <img height="60" src="Assets/Social Icons/Google.gif" alt="Email: zain.dev00@gmail.com" />
 </a>
 <a href="https://www.instagram.com/i.am_zayn/" target="_blank">
   <img height="60" src="Assets/Social Icons/Instagram.gif" alt="Instagram" />
@@ -68,6 +68,11 @@
 <!-- ### $${\huge \textrm{\color{#AC3097}P\color{#A52A98}r\color{#9E2599}o\color{#972099}j\color{#901B9A}e\color{#89169B}c\color{#82119C}t \color{#7B0C9D}S\color{#74079E}h\color{#6D029F}o\color{#6600A0}w\color{#5F00A1}c\color{#5800A2}a\color{#5100A3}s\color{#4A00A4}e}}$$ -->
 
 ---
+
+<div align="center">
+  <a href="https://gitroll.io/profile/uQfF191DCJ5X64JCb4qOfEAEh9ty1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQfF191DCJ5X64JCb4qOfEAEh9ty1" alt="GitRoll Profile Badge"/></a>
+</div>
+
 
 ## 🧑‍💻 Skills
 
