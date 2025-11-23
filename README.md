@@ -92,9 +92,9 @@
         <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="50" /></a>
         <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="50" /></a>
         <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="Redux" height="50" /></a>
-        <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="assets/Skill Icons/chartjs-original.svg" alt="Chart.js" height="50" /></a>
-        <a href="https://canvasjs.com/" target="_blank"><img style="margin: 10px" src="assets/Skill Icons/canvasjs.png" alt="CanvasJS" height="50" /></a>
-        <a href="https://www.framer.com/" target="_blank"><img style="margin: 10px" src="assets/Skill Icons/framer.svg" alt="Framer" height="50" /></a>
+        <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="Assets/Skill Icons/chartjs-original.svg" alt="Chart.js" height="50" /></a>
+        <a href="https://canvasjs.com/" target="_blank"><img style="margin: 10px" src="Assets/Skill Icons/canvasjs.png" alt="CanvasJS" height="50" /></a>
+        <a href="https://www.framer.com/" target="_blank"><img style="margin: 10px" src="Assets/Skill Icons/framer.svg" alt="Framer" height="50" /></a>
         <br/>
         <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
     </td>
