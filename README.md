@@ -168,13 +168,13 @@
 <!--
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zain-ul-abideen00&theme=moltack&column=7&margin-w=15&margin-h=15) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zain-Ul-Abideen00&theme=moltack&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zain-Ul-Abideen00&theme=moltack&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/zain-ul-abideen00)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zain-ul-abideen00&show_icons=true&theme=moltack&count_private=true&rank_icon=github&include_all_commits=false" />
+<a href="https://github.com/zain-ul-abideen00">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=zain-ul-abideen00&show_icons=true&theme=moltack&count_private=true&rank_icon=github&include_all_commits=false" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-ul-abideen00&layout=compact&theme=moltack&langs_count=10" />
+<a href="https://github.com/zain-ul-abideen00">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-ul-abideen00&layout=compact&theme=moltack&langs_count=10" />
 </a>
 
 <!-- LeetCode Stats Card: LeetCode username required -->
