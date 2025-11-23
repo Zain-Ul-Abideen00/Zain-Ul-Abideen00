@@ -81,20 +81,23 @@
     <td valign="top" width="33%">
       <h3 align="center">Frontend</h3>
       <div align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" /></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" /></a>
-        <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="Vue.js" height="50" /></a>
-        <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" /></a>
-        <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=angular" alt="Angular" height="50" /></a>
-        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>
-        <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="50" /></a>
-        <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="50" /></a>
-        <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="Redux" height="50" /></a>
-        <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="Assets/Skill Icons/chartjs-original.svg" alt="Chart.js" height="50" /></a>
-        <a href="https://canvasjs.com/" target="_blank"><img style="margin: 10px" src="Assets/Skill Icons/canvasjs.png" alt="CanvasJS" height="50" /></a>
-        <a href="https://www.framer.com/" target="_blank"><img style="margin: 10px" src="Assets/Skill Icons/framer.svg" alt="Framer" height="50" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" /></a>&nbsp;&nbsp;
+        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" /></a>&nbsp;&nbsp;
+        <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="Vue.js" height="50" /></a>&nbsp;&nbsp;
+        <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" /></a>&nbsp;&nbsp;
+        <br />
+        <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=angular" alt="Angular" height="50" /></a>&nbsp;&nbsp;
+        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50" /></a>&nbsp;&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>&nbsp;&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>&nbsp;&nbsp;
+        <br />
+        <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="50" /></a>&nbsp;&nbsp;
+        <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="50" /></a>&nbsp;&nbsp;
+        <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="Redux" height="50" /></a>&nbsp;&nbsp;
+        <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="Assets/Skill Icons/chartjs-original.svg" alt="Chart.js" height="50" /></a>&nbsp;&nbsp;
+        <br />
+        <a href="https://canvasjs.com/" target="_blank"><img style="margin: 10px" src="Assets/Skill Icons/canvasjs.png" alt="CanvasJS" height="50" /></a>&nbsp;&nbsp;
+        <a href="https://www.framer.com/" target="_blank"><img style="margin: 10px" src="Assets/Skill Icons/framer.svg" alt="Framer" height="50" /></a>&nbsp;&nbsp;
         <br/>
         <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
     </td>
