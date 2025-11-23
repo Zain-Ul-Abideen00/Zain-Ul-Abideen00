@@ -19,7 +19,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FFE069&section=header&reversal=false&textBg=false&animation=fadeIn"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=88&pause=1000&color=FFE069&center=true&vCenter=true&width=960&height=90&lines=Hey+There!;It's+Zain+Ul+Abideen;Agentic+Ai+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=88&pause=1000&color=FFE069&center=true&vCenter=true&width=960&height=90&lines=Hey+There!;It's+Zain+Ul+Abideen)](https://git.io/typing-svg)
 
 <h1 align="center">
   <font color="#FFE069">Have something cool in mind? I’d love to hear about it.</font>
@@ -69,8 +69,22 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://gitroll.io/profile/uQfF191DCJ5X64JCb4qOfEAEh9ty1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQfF191DCJ5X64JCb4qOfEAEh9ty1" alt="GitRoll Profile Badge"/></a>
+</div> -->
+
+<div align="center">
+  <h3>
+    Full-Stack Engineer | UI/UX Designer | Agentic AI Developer
+  </h3>
+  <br/>
+  <p>
+    I build scalable web applications with a <b>designer's eye</b>. I don't just build websites; I craft intelligent digital experiences using <b>Next.js, TypeScript, and Tailwind</b>, ensuring every pixel from my <b>Figma</b> designs makes it to the screen.
+  </p>
+  <p>
+    🚀 <b>Currently Exploring the Frontier of AI:</b><br>
+    Right now, I'm building smart systems that can actually "think" and act. I'm experimenting with the <b>OpenAI SDK, n8n, and Gemini</b> to create autonomous agents that handle complex workflows on their own.
+  </p>
 </div>
 
 
@@ -146,11 +160,47 @@
 </table>
 <br/><br/>
 
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+<!--
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zain-ul-abideen00&theme=moltack&column=7&margin-w=15&margin-h=15) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zain-Ul-Abideen00&theme=moltack&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zain-ul-abideen00&show_icons=true&theme=moltack&count_private=true&rank_icon=github&include_all_commits=false" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-ul-abideen00&layout=compact&theme=moltack&langs_count=10" />
+</a>
+
+<!-- LeetCode Stats Card: LeetCode username required -->
+
+<!-- Twitter Badge: Twitter username required (provide in Social Links section) -->
+
+</div>
+
+---
+
+
 <p align="center">
-  <a href="https://ishan-oshada.vercel.app/">
+  <a href="https://zain-ul-abideen.vercel.app/">
     <img src="https://ishan-rest.vercel.app/svg/banner/dev/Zain" alt="Banner" style="width:100%;">
   </a>
 </p>
+
+<div align="center">
+
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=zain-ul-abideen00&base=1236&color=8f7a2c&style=for-the-badge&label=Profile+Views)
+
+</div>
 
 
 <p align="center">
