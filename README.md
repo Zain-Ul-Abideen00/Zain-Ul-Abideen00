@@ -47,6 +47,8 @@
 </a>
 </p>
 
+---
+
 <div align="center">
   <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Full-Stack Engineer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Artist%20Light%20Skin%20Tone.png" alt="Man Artist Light Skin Tone" width="25" height="25" /> UI/UX Designer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Agentic AI Developer
@@ -153,6 +155,10 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-ul-abideen00&layout=compact&theme=moltack&langs_count=10" />
 </a>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" height="50" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=zain-ul-abideen00&base=1236&color=8f7a2c&style=for-the-badge&label=Profile+Views)
+
 <!-- LeetCode Stats Card: LeetCode username required -->
 
 <!-- Twitter Badge: Twitter username required (provide in Social Links section) -->
@@ -172,23 +178,34 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" /> My Contribution Graph
 
-<div style="height: 128px; max-width: 868px; overflow-x: auto; overflow-y: hidden; border: 1px solid #d3d3d3ff; border-radius: 6px; background: transparent;">
-  <picture style="display: block; min-width: 868px; height: 128px;">
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zain-Ul-Abideen00/Zain-Ul-Abideen00/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zain-Ul-Abideen00/Zain-Ul-Abideen00/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zain-Ul-Abideen00/Zain-Ul-Abideen00/output/pacman-contribution-graph.svg" style="height: 128px; width: auto; min-width: 868px;">
-  </picture>
-</div>
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zain-Ul-Abideen00/Zain-Ul-Abideen00/output/pacman-contribution-graph.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" height="50" />
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zain-ul-abideen00&base=1236&color=8f7a2c&style=for-the-badge&label=Profile+Views)
+
 
 ## Thank you for visiting my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Smiling Face with Open Hands" width="25" height="25" />
 
-</div>
+<p align="center">
+  <a href="https://github.com/Zain-Ul-Abideen00/Zain-Ul-Abideen00/stargazers">
+    <img src="https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=30&pause=500&color=FFE069&center=true&vCenter=true&width=600&height=50&lines=If+you+like+my+work;Please+give+it+a+Star!+⭐" alt="Star CTA" />
+  </a>
+</p>
+
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFE069&section=footer&reversal=true"/>
+  <a href="https://github.com/Zain-Ul-Abideen00/Zain-Ul-Abideen00/stargazers">
+    <img src="https://img.shields.io/github/stars/Zain-Ul-Abideen00/Zain-Ul-Abideen00?style=for-the-badge&color=FFE069&logo=github&label=Star%20this%20Repo" alt="Star this Repo" />
+  </a>
 </p>
+</div>
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFE069&section=footer&reversal=true"/>
+</div>
