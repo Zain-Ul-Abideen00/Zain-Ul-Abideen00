@@ -191,9 +191,9 @@
 ## Thank you for visiting my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Smiling Face with Open Hands" width="25" height="25" />
 
 <p align="center">
-  <a href="https://github.com/Zain-Ul-Abideen00/Zain-Ul-Abideen00/stargazers">
-    <img src="https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=30&pause=500&color=FFE069&center=true&vCenter=true&width=600&height=50&lines=If+you+like+my+work;Please+give+it+a+Star!+⭐" alt="Star CTA" />
-  </a>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=30&pause=500&color=FFE069&center=true&vCenter=true&width=600&height=50&lines=If+you+like+my+work;Please+give+it+a+Star!+⭐)](https://github.com/Zain-Ul-Abideen00/Zain-Ul-Abideen00/stargazers)
+  
 </p>
 
 
