@@ -1,20 +1,3 @@
-
-<!-- <div align="center">
-
-![profile-banner](https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/marquee.png)
-
-<h2>Join me on the way to somewhere interesting! Let's build cool stuff together</h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarush-saboo-110190253/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarushsaboo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aarushizbored/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarush.saboo@gmail.com)
-
-**Frontend & Backend Developer**
-
-<img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/coding-gif.gif" alt="coding" style="width: 500px;">
-</div> -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FFE069&section=header&reversal=false&textBg=false&animation=fadeIn"/>
 </p>
@@ -64,36 +47,29 @@
 </a>
 </p>
 
-<!-- multicolor -->
-<!-- ### $${\huge \textrm{\color{#AC3097}P\color{#A52A98}r\color{#9E2599}o\color{#972099}j\color{#901B9A}e\color{#89169B}c\color{#82119C}t \color{#7B0C9D}S\color{#74079E}h\color{#6D029F}o\color{#6600A0}w\color{#5F00A1}c\color{#5800A2}a\color{#5100A3}s\color{#4A00A4}e}}$$ -->
-
----
-
-<!-- <div align="center">
-  <a href="https://gitroll.io/profile/uQfF191DCJ5X64JCb4qOfEAEh9ty1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQfF191DCJ5X64JCb4qOfEAEh9ty1" alt="GitRoll Profile Badge"/></a>
-</div> -->
-
 <div align="center">
   <h3>
-    Full-Stack Engineer | UI/UX Designer | Agentic AI Developer
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Full-Stack Engineer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Artist%20Light%20Skin%20Tone.png" alt="Man Artist Light Skin Tone" width="25" height="25" /> UI/UX Designer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Agentic AI Developer
   </h3>
   <br/>
   <p>
     I build scalable web applications with a <b>designer's eye</b>. I don't just build websites; I craft intelligent digital experiences using <b>Next.js, TypeScript, and Tailwind</b>, ensuring every pixel from my <b>Figma</b> designs makes it to the screen.
   </p>
   <p>
-    🚀 <b>Currently Exploring the Frontier of AI:</b><br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> <b>Currently Exploring the Frontier of AI:</b><br>
     Right now, I'm building smart systems that can actually "think" and act. I'm experimenting with the <b>OpenAI SDK, n8n, and Gemini</b> to create autonomous agents that handle complex workflows on their own.
   </p>
 </div>
 
+---
 
-## 🧑‍💻 Skills
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" height="50" /> Skills
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3 align="center">Frontend</h3>
+      <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Frontend</h3>
       <div align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" /></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" /></a>&nbsp;&nbsp;&nbsp;
@@ -116,7 +92,7 @@
         <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Backend</h3>
+      <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Backend</h3>
       <div align="center">
         <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>&nbsp;&nbsp;&nbsp;
@@ -136,7 +112,7 @@
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Other</h3>
+      <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Other</h3>
       <div align="center">
         <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" /></a>&nbsp;&nbsp;&nbsp;
         <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>&nbsp;&nbsp;&nbsp;
@@ -162,7 +138,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats & Activity
 
 <div align="center">
 <!--
@@ -194,19 +170,21 @@
 
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" /> My Contribution Graph
 
-**Thank you for visiting my profile! 😊**
-
-## My Contribution Graph
-
-<picture>
+<div style="height: 128px; max-width: 868px; overflow-x: auto; overflow-y: hidden; border: 1px solid #d3d3d3ff; border-radius: 6px; background: transparent;">
+  <picture style="display: block; min-width: 868px; height: 128px;">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zain-Ul-Abideen00/Zain-Ul-Abideen00/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zain-Ul-Abideen00/Zain-Ul-Abideen00/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zain-Ul-Abideen00/Zain-Ul-Abideen00/output/pacman-contribution-graph.svg">
-</picture>
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zain-Ul-Abideen00/Zain-Ul-Abideen00/output/pacman-contribution-graph.svg" style="height: 128px; width: auto; min-width: 868px;">
+  </picture>
+</div>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" height="50" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zain-ul-abideen00&base=1236&color=8f7a2c&style=for-the-badge&label=Profile+Views)
+
+## Thank you for visiting my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" alt="Smiling Face with Open Hands" width="25" height="25" />
 
 </div>
 
