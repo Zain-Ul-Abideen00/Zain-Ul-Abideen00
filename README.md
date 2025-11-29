@@ -146,14 +146,18 @@
 <!--
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zain-ul-abideen00&theme=moltack&column=7&margin-w=15&margin-h=15) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zain-Ul-Abideen00&theme=moltack&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/zain-ul-abideen00)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zain-Ul-Abideen00&theme=moltack&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Zain-Ul-Abideen00)
 
-<a href="https://github.com/zain-ul-abideen00">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zain-Ul-Abideen00&show_icons=true&theme=moltack&count_private=true&rank_icon=github&include_all_commits=false)](https://github.com/Zain-Ul-Abideen00)
+
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Ul-Abideen00&layout=compact&theme=moltack&langs_count=10)](https://github.com/Zain-Ul-Abideen00)
+
+<!-- <a href="https://github.com/zain-ul-abideen00">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=zain-ul-abideen00&show_icons=true&theme=moltack&count_private=true&rank_icon=github&include_all_commits=false" />
 </a>
 <a href="https://github.com/zain-ul-abideen00">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-ul-abideen00&layout=compact&theme=moltack&langs_count=10" />
-</a>
+</a> -->
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" height="50" />
 
@@ -193,7 +197,7 @@
 <p align="center">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=30&pause=500&color=FFE069&center=true&vCenter=true&width=600&height=50&lines=If+you+like+my+work;Please+give+it+a+Star!+⭐)](https://github.com/Zain-Ul-Abideen00/Zain-Ul-Abideen00/stargazers)
-  
+
 </p>
 
 
